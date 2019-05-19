@@ -1,0 +1,10 @@
+D:\Учеба\4 семестр\Курсовая C#\ServerApp.exe.config
+D:\Учеба\4 семестр\Курсовая C#\ServerApp.exe
+D:\Учеба\4 семестр\Курсовая C#\ServerApp.pdb
+C:\Users\OmegaNessy\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.csprojAssemblyReference.cache
+C:\Users\OmegaNessy\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.csproj.CoreCompileInputs.cache
+C:\Users\OmegaNessy\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.exe
+C:\Users\OmegaNessy\source\repos\ServerApp\ServerApp\obj\Debug\ServerApp.pdb
+D:\Учеба\4 семестр\Курсовая C#\SomeShit\ServerApp.exe.config
+D:\Учеба\4 семестр\Курсовая C#\SomeShit\ServerApp.exe
+D:\Учеба\4 семестр\Курсовая C#\SomeShit\ServerApp.pdb

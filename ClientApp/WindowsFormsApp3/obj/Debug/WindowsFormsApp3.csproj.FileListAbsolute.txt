@@ -1,0 +1,30 @@
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddForm.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DeleteForm.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditForm.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SearchForm.resources
+C:\Users\OmegaNessy\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DefenitionForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DefenitionForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DeleteForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SearchForm.resources
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+D:\Учеба\4 семестр\Курсовая C#\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
